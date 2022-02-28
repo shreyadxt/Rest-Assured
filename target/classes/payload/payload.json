@@ -1,0 +1,10 @@
+{
+    "files":
+    {
+        "mAN":{
+       "description": "Hello World Examples",
+       "content": "Dixit",
+       "public" : "true"
+        }
+    }
+}
